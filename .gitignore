@@ -4,3 +4,8 @@ academic/
 *~
 *#
 *.html
+
+# other build-generated files
+build/
+dist/
+*.egg-info/
